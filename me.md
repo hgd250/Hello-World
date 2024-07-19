@@ -16,6 +16,31 @@ Fortunately, I eventually found my 'home' at Citi. I guess I still have charm, o
 
 
 
+"Hello everyone, I graduated from Jilin University in 2010.
+
+Speaking of my work experience, it's quite a 'legendary' journey.
+
+I started at Alibaba as an intern, I could feel the energy and rapid development of internet every day.
+For this picture pay attention to the timestamp: it’s 9:20 PM already, so for 996, it’s true for a internet company.
+Since then, I've started to lose my hair
+
+The internet is very hot , then I joined My120.com , a startup internet company , dream of being financially free one day. But guess what? The company went bankrupt before I could even get started. 
+
+Next, I‘m looking for a job with more stability，so I moved to NNIT，is a joint venture between NEC and NEU. 
+But who knew, they broke up and closed the company after 4 years. I started to wonder if I had a 'curse' that makes companies go bankrupt.
+
+
+After that, I went to Accenture, a fortune Global 500 companies，it should be fine this time． But fate always has its surprises, and the company ended up laying off employees! I thought, 'What's going on? Why am I so 'lucky’?
+
+Fortunately, I got job in Citi. Soon after my joining , Reorg happened in Citi ,I think it’s not my bad. While anyway I’m still here you can see me right now . 
+
+Haha, just kidding! Actually, I think these experiences have made me cherish my current job more, and they've also taught me that no matter what difficulties we face, we should persevere because there will always be better opportunities waiting for us!"
+
+![image](https://github.com/user-attachments/assets/3c42c68f-87a7-445e-8d83-98f38d22e45d)
+
+
+
+
 
 
 

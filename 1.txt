@@ -23,6 +23,11 @@ And finally we won the top5 of the “spring board” topic to help homeless. Th
 
 
 Redis: 
+Let me get familiar with the Redis framework previously developed by Team. Through understanding and learning about this framework, I found that it was actually very well-designed, featuring excellent scalability. With only minor changes to the configuration, one can easily load data from the database into Redis. The code is also written in a very concise and clean manner. It makes me realize what an outstanding technical team this is. 
+
+
+Outing:
+This my second time outing in Citi , I really enjoy it with my daughter. Also make many new friends there. 
 
 
 

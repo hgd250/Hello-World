@@ -1,33 +1,15 @@
-Speaking of my work experience, it's quite a 'legendary' journey.
+Sure, here's the translated version:
 
-I started at Alibaba as an intern, This picture was taken on a weekend after an activity. The left one is me , still a lot of hair. Look at the building there are many boxes out of the building , that’s meeting room , we have a lot of late night meeting there even every night, so the 996 is true, but we don’t feel tired since young, during that time I didn’t have any time to play football, and from then I started to lose my hair.
+Past
 
- 
-I joined My120.com , an internet startup company , but just six months later the company went bankrupt and closed, Sometimes I think it's my joining that make it closed.
+In the past year, as a software engineer, I have been deeply involved in the development and iteration of multiple projects. From requirement analysis to system design, and then to coding implementation and testing optimization, I have constantly honed my technical skills and project management abilities. Through team collaboration, we successfully solved multiple technical challenges and delivered high-quality software products on time. These experiences not only enhanced my professional skills but also taught me how to remain calm and efficient in complex and ever-changing environments.
 
+Present
 
-And next I  went to NNIT，is a joint venture between NEC and NEU. But who knew, they broke up and closed the company after around 4 years. I started to wonder if I had a 'curse' that makes companies go bankrupt.
+Currently, I am focusing on enhancing my technical depth and breadth. While deeply studying the current technology stack, I am also actively learning new programming languages, frameworks, and tools to maintain my competitiveness in the technology field. At the same time, I am striving to improve my soft skills, such as communication, team collaboration, and leadership, to better adapt to the ever-changing work demands.
 
+Future
 
-After that, I went to Accenture, a fortune Global 500 companies，I thought it should be fine this time?  But fate always has its surprises, layoff happens! Total of my department been layoff. 
+Looking ahead, I plan to continue deepening my technical expertise and exploring new technological fields and opportunities. I hope to participate in more challenging projects and constantly push my limits. At the same time, I also hope to make a greater contribution to the development of my team and company, driving business growth through technological innovation and team collaboration. I believe that in the near future, I will become an even more outstanding software engineer, contributing to the development of the software industry.
 
-Finally I am here. While soon after my joining ,Reorg happens in Citi… Just kidding! Actually, I think these experiences have made me cherish my current job more, and they've also taught me that no matter what difficulties we face, we should persevere because there will always be better opportunities waiting for us.
-
-
-
-
-Onboard:
-Hackathon:
-Code hackathon , it’s a very specifical experience , we should choose a topic to implement something within 24hrs.
-And finally we won the top5 of the “spring board” topic to help homeless. Through the Hackathon, not only achieve good results, but also as a newcomer, I was able to establish strong relationships with my teammates.
-
-
-Redis: 
-Let me get familiar with the Redis framework previously developed by Team. Through understanding and learning about this framework, I found that it was actually very well-designed, featuring excellent scalability. With only minor changes to the configuration, one can easily load data from the database into Redis. The code is also written in a very concise and clean manner. It makes me realize what an outstanding technical team this is. 
-
-
-Outing:
-This my second time outing in Citi , I really enjoy it with my daughter. Also make many new friends there. 
-
-
-
+I hope this translation meets your needs!
